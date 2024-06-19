@@ -1,468 +1,97 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718824354440 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718824946599 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6kK2AAAAAQAAAAEAAAAAAAAAAHSK9suItvUqGfgBexcWME1yI3UBKzuLjAsS19Ebm6Ka
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx80vUAAAAAQAAAAEAAAAAAAAAAKU9IEI9zfwSfC3O2sNmVRT0FE1QvG-ADAs328QvTubk
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824357716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824949713 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6kK2AAAAAQAAAAEAAAAAAAAAAHSK9suItvUqGfgBexcWME1yI3UBKzuLjAsS19Ebm6Ka
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx80vUAAAAAQAAAAEAAAAAAAAAAKU9IEI9zfwSfC3O2sNmVRT0FE1QvG-ADAs328QvTubk
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824360905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824952783 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6kK2AAAAAQAAAAEAAAAAAAAAAHSK9suItvUqGfgBexcWME1yI3UBKzuLjAsS19Ebm6Ka
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx80vUAAAAAQAAAAEAAAAAAAAAAKU9IEI9zfwSfC3O2sNmVRT0FE1QvG-ADAs328QvTubk
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824363976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824955973 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6kK2AAAAAQAAAAEAAAAAAAAAAHSK9suItvUqGfgBexcWME1yI3UBKzuLjAsS19Ebm6Ka
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx80vUAAAAAQAAAAEAAAAAAAAAAKU9IEI9zfwSfC3O2sNmVRT0FE1QvG-ADAs328QvTubk
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824367061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824959024 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6kK2AAAAAQAAAAEAAAAAAAAAAHSK9suItvUqGfgBexcWME1yI3UBKzuLjAsS19Ebm6Ka
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx80vUAAAAAQAAAAEAAAAAAAAAAKU9IEI9zfwSfC3O2sNmVRT0FE1QvG-ADAs328QvTubk
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824370122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824962118 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6n_uAAAAAQAAAAEAAAAAAAAAAOY0lydDK8RHTOkE2pOCbAaFxoJmYwTcfMQS0SPh54Z3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx84hkAAAAAQAAAAEAAAAAAAAAAGPBVRsJeZv0nRTw5mRhbKQCf3llDtm_YBOdUZQBPnxO
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824373232 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824965264 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6n_uAAAAAQAAAAEAAAAAAAAAAOY0lydDK8RHTOkE2pOCbAaFxoJmYwTcfMQS0SPh54Z3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx84hkAAAAAQAAAAEAAAAAAAAAAGPBVRsJeZv0nRTw5mRhbKQCf3llDtm_YBOdUZQBPnxO
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824376266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824968303 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6n_uAAAAAQAAAAEAAAAAAAAAAOY0lydDK8RHTOkE2pOCbAaFxoJmYwTcfMQS0SPh54Z3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx84hkAAAAAQAAAAEAAAAAAAAAAGPBVRsJeZv0nRTw5mRhbKQCf3llDtm_YBOdUZQBPnxO
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824379407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824971364 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6n_uAAAAAQAAAAEAAAAAAAAAAOY0lydDK8RHTOkE2pOCbAaFxoJmYwTcfMQS0SPh54Z3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx84hkAAAAAQAAAAEAAAAAAAAAAGPBVRsJeZv0nRTw5mRhbKQCf3llDtm_YBOdUZQBPnxO
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824382519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824974531 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6n_uAAAAAQAAAAEAAAAAAAAAAOY0lydDK8RHTOkE2pOCbAaFxoJmYwTcfMQS0SPh54Z3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx84hkAAAAAQAAAAEAAAAAAAAAAGPBVRsJeZv0nRTw5mRhbKQCf3llDtm_YBOdUZQBPnxO
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824385575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824977585 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6rxEAAAAAQAAAAEAAAAAAAAAAFsw37sfUP7uAo8kGtei4LgXnzS8gk11Z6c2l06_SQLr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx88TXAAAAAQAAAAEAAAAAAAAAAE-QQ43QvLWgQwyT8tjIkWMAi19ErDtk-eRR_QnIn7pe
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824388665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824980701 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6rxEAAAAAQAAAAEAAAAAAAAAAFsw37sfUP7uAo8kGtei4LgXnzS8gk11Z6c2l06_SQLr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx88TXAAAAAQAAAAEAAAAAAAAAAE-QQ43QvLWgQwyT8tjIkWMAi19ErDtk-eRR_QnIn7pe
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824391766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824984029 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6rxEAAAAAQAAAAEAAAAAAAAAAFsw37sfUP7uAo8kGtei4LgXnzS8gk11Z6c2l06_SQLr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx88TXAAAAAQAAAAEAAAAAAAAAAE-QQ43QvLWgQwyT8tjIkWMAi19ErDtk-eRR_QnIn7pe
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824394928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718824987096 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6rxEAAAAAQAAAAEAAAAAAAAAAFsw37sfUP7uAo8kGtei4LgXnzS8gk11Z6c2l06_SQLr
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824397986 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6rxEAAAAAQAAAAEAAAAAAAAAAFsw37sfUP7uAo8kGtei4LgXnzS8gk11Z6c2l06_SQLr
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824401090 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6vjlAAAAAQAAAAEAAAAAAAAAAMOZ8wieYKTjXtaEpMty__oOLunRy8I61bTr0inWYbRn
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824404559 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6vjlAAAAAQAAAAEAAAAAAAAAAMOZ8wieYKTjXtaEpMty__oOLunRy8I61bTr0inWYbRn
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824408037 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6vjlAAAAAQAAAAEAAAAAAAAAAMOZ8wieYKTjXtaEpMty__oOLunRy8I61bTr0inWYbRn
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824411098 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6vjlAAAAAQAAAAEAAAAAAAAAAMOZ8wieYKTjXtaEpMty__oOLunRy8I61bTr0inWYbRn
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824414148 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6vjlAAAAAQAAAAEAAAAAAAAAAMOZ8wieYKTjXtaEpMty__oOLunRy8I61bTr0inWYbRn
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824417195 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6zfRAAAAAQAAAAEAAAAAAAAAAEUNRrI12m0Y4CwbJn-vP2719A1U7jduRyF5IKMxDO3Q
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824420300 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6zfRAAAAAQAAAAEAAAAAAAAAAEUNRrI12m0Y4CwbJn-vP2719A1U7jduRyF5IKMxDO3Q
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824423397 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6zfRAAAAAQAAAAEAAAAAAAAAAEUNRrI12m0Y4CwbJn-vP2719A1U7jduRyF5IKMxDO3Q
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824426584 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6zfRAAAAAQAAAAEAAAAAAAAAAEUNRrI12m0Y4CwbJn-vP2719A1U7jduRyF5IKMxDO3Q
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824429800 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6zfRAAAAAQAAAAEAAAAAAAAAAEUNRrI12m0Y4CwbJn-vP2719A1U7jduRyF5IKMxDO3Q
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824432877 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx63URAAAAAQAAAAEAAAAAAAAAAGs4i_e3-XbZ4XSlp2Ps61BhcgzFpdyl0IRHGM6p4-RM
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824436400 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx63URAAAAAQAAAAEAAAAAAAAAAGs4i_e3-XbZ4XSlp2Ps61BhcgzFpdyl0IRHGM6p4-RM
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824439887 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx63URAAAAAQAAAAEAAAAAAAAAAGs4i_e3-XbZ4XSlp2Ps61BhcgzFpdyl0IRHGM6p4-RM
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824443085 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx63URAAAAAQAAAAEAAAAAAAAAAGs4i_e3-XbZ4XSlp2Ps61BhcgzFpdyl0IRHGM6p4-RM
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824446184 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx63URAAAAAQAAAAEAAAAAAAAAAGs4i_e3-XbZ4XSlp2Ps61BhcgzFpdyl0IRHGM6p4-RM
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824449277 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx67VEAAAAAQAAAAEAAAAAAAAAAPoOrCS6LimFZtf0vPhmYHXtMrmfxcB_6m5r9pR7uWCd
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824452418 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx67VEAAAAAQAAAAEAAAAAAAAAAPoOrCS6LimFZtf0vPhmYHXtMrmfxcB_6m5r9pR7uWCd
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824455476 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx67VEAAAAAQAAAAEAAAAAAAAAAPoOrCS6LimFZtf0vPhmYHXtMrmfxcB_6m5r9pR7uWCd
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824458515 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx67VEAAAAAQAAAAEAAAAAAAAAAPoOrCS6LimFZtf0vPhmYHXtMrmfxcB_6m5r9pR7uWCd
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824461578 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx67VEAAAAAQAAAAEAAAAAAAAAAPoOrCS6LimFZtf0vPhmYHXtMrmfxcB_6m5r9pR7uWCd
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824464656 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6_EzAAAAAQAAAAEAAAAAAAAAAOJyKTh7gGhy6Pn0biQJAx49b0otMRoYi16qT5L3l2Qp
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824467838 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6_EzAAAAAQAAAAEAAAAAAAAAAOJyKTh7gGhy6Pn0biQJAx49b0otMRoYi16qT5L3l2Qp
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824470982 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6_EzAAAAAQAAAAEAAAAAAAAAAOJyKTh7gGhy6Pn0biQJAx49b0otMRoYi16qT5L3l2Qp
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824474045 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6_EzAAAAAQAAAAEAAAAAAAAAAOJyKTh7gGhy6Pn0biQJAx49b0otMRoYi16qT5L3l2Qp
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824477121 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx6_EzAAAAAQAAAAEAAAAAAAAAAOJyKTh7gGhy6Pn0biQJAx49b0otMRoYi16qT5L3l2Qp
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824480179 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7C3ZAAAAAQAAAAEAAAAAAAAAAFLxdO6auN0PW8bdhGw7iNcU9ZFAEYxlRV4ahOFGTHjs
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824483331 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7C3ZAAAAAQAAAAEAAAAAAAAAAFLxdO6auN0PW8bdhGw7iNcU9ZFAEYxlRV4ahOFGTHjs
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824486418 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7C3ZAAAAAQAAAAEAAAAAAAAAAFLxdO6auN0PW8bdhGw7iNcU9ZFAEYxlRV4ahOFGTHjs
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824489474 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7C3ZAAAAAQAAAAEAAAAAAAAAAFLxdO6auN0PW8bdhGw7iNcU9ZFAEYxlRV4ahOFGTHjs
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824492557 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7C3ZAAAAAQAAAAEAAAAAAAAAAFLxdO6auN0PW8bdhGw7iNcU9ZFAEYxlRV4ahOFGTHjs
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824495605 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7GoTAAAAAQAAAAEAAAAAAAAAADM0CT7cos41jS7SKNUhE7g6ftv5CGGfzk8ecfsabqHL
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824498692 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7GoTAAAAAQAAAAEAAAAAAAAAADM0CT7cos41jS7SKNUhE7g6ftv5CGGfzk8ecfsabqHL
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824501959 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7GoTAAAAAQAAAAEAAAAAAAAAADM0CT7cos41jS7SKNUhE7g6ftv5CGGfzk8ecfsabqHL
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824505065 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7GoTAAAAAQAAAAEAAAAAAAAAADM0CT7cos41jS7SKNUhE7g6ftv5CGGfzk8ecfsabqHL
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824508131 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7GoTAAAAAQAAAAEAAAAAAAAAADM0CT7cos41jS7SKNUhE7g6ftv5CGGfzk8ecfsabqHL
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824511204 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7KcBAAAAAQAAAAEAAAAAAAAAANYNafzltsJ37fB5XUs66gP85lJ8tnXN82bldrlfUDMl
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824514350 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7KcBAAAAAQAAAAEAAAAAAAAAANYNafzltsJ37fB5XUs66gP85lJ8tnXN82bldrlfUDMl
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824517611 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7KcBAAAAAQAAAAEAAAAAAAAAANYNafzltsJ37fB5XUs66gP85lJ8tnXN82bldrlfUDMl
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824520691 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7KcBAAAAAQAAAAEAAAAAAAAAANYNafzltsJ37fB5XUs66gP85lJ8tnXN82bldrlfUDMl
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824523776 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7KcBAAAAAQAAAAEAAAAAAAAAANYNafzltsJ37fB5XUs66gP85lJ8tnXN82bldrlfUDMl
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824526843 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7OQsAAAAAQAAAAEAAAAAAAAAADZQP0MJi5IBqxSiTsTJu6DO2k-14XwbT0Ct05Xn62iQ
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824529979 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7OQsAAAAAQAAAAEAAAAAAAAAADZQP0MJi5IBqxSiTsTJu6DO2k-14XwbT0Ct05Xn62iQ
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824533047 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7OQsAAAAAQAAAAEAAAAAAAAAADZQP0MJi5IBqxSiTsTJu6DO2k-14XwbT0Ct05Xn62iQ
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824536190 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7OQsAAAAAQAAAAEAAAAAAAAAADZQP0MJi5IBqxSiTsTJu6DO2k-14XwbT0Ct05Xn62iQ
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824539354 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7OQsAAAAAQAAAAEAAAAAAAAAADZQP0MJi5IBqxSiTsTJu6DO2k-14XwbT0Ct05Xn62iQ
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824542458 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7SEwAAAAAQAAAAEAAAAAAAAAAOffy7xjJF9uyzaIn0qDbQeh8FPn9-5qlpvDJIG7cDA0
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824545565 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7SEwAAAAAQAAAAEAAAAAAAAAAOffy7xjJF9uyzaIn0qDbQeh8FPn9-5qlpvDJIG7cDA0
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824548619 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7SEwAAAAAQAAAAEAAAAAAAAAAOffy7xjJF9uyzaIn0qDbQeh8FPn9-5qlpvDJIG7cDA0
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824551682 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7SEwAAAAAQAAAAEAAAAAAAAAAOffy7xjJF9uyzaIn0qDbQeh8FPn9-5qlpvDJIG7cDA0
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824554753 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7SEwAAAAAQAAAAEAAAAAAAAAAOffy7xjJF9uyzaIn0qDbQeh8FPn9-5qlpvDJIG7cDA0
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824557811 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7V0OAAAAAQAAAAEAAAAAAAAAABXPZCKnlaVLmKgcRxA_ufMSit52JOjU2nmmMyxsK5DC
-
-TUNNELS
-journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-beautiful-categories.gl.at.ply.gg:2468 => 127.0.0.1:2468 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718824560986 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx7V0OAAAAAQAAAAEAAAAAAAAAABXPZCKnlaVLmKgcRxA_ufMSit52JOjU2nmmMyxsK5DC
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAk8fwAAAZAx88TXAAAAAQAAAAEAAAAAAAAAAE-QQ43QvLWgQwyT8tjIkWMAi19ErDtk-eRR_QnIn7pe
 
 TUNNELS
 journal-watched.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
